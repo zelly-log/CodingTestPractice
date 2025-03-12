@@ -16,7 +16,7 @@ Divide the directory by language, then organize by problem-solving site or algor
 📦 coding-test-practice
  ┣ 📂 src
  ┃ ┣ 📂 java
- ┃ ┃ ┣ 📂 baekjoon
+ ┃ ┃ ┣ 📂 algorithm
  ┃ ┃ ┣ 📂 programmers
 ```
   
