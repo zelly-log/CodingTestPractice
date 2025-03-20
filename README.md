@@ -31,4 +31,5 @@ Divide the directory by language, then organize by problem-solving site or algor
 | 2025/03/17 | 📂 Programmers | 약수의 합	           | SumOfDivisors            | ✅ Solved |
 | 2025/03/19 | 📂 Programmers | 자릿수 더하기	         | SumOfDigits              | ✅ Solved |
 | 2025/03/19 | 📂 Programmers | 자연수 뒤집어 배열로 만들기	 | ReverseNumberToArray     | ✅ Solved |
+| 2025/03/19 | 📂 Programmers | 짝수와 홀수	          | CheckEvenOdd             | ✅ Solved |
 
